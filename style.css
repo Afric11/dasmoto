@@ -1,0 +1,31 @@
+header{
+    margin: 25px 0;
+    background-image: url('images/bg.webp');
+    color: khaki;
+    text-align: center;
+    font-family:  Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sec_Brush h2{
+    background-color: mediumaquamarine;
+    font-family:  Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.sec_Fra h2{
+    background-color: lightcoral;
+    font-family:  Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.sec_Paint h2{
+    background-color: skyblue;
+    font-family:  Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
